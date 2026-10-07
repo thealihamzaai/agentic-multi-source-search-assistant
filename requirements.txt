@@ -1,0 +1,7 @@
+streamlit>=1.40
+langchain-groq>=0.2
+langchain-community>=0.3
+duckduckgo-search>=7.0
+arxiv>=2.1
+wikipedia>=1.4
+python-dotenv>=1.0
